@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Exp2of4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Artirons")]
 [assembly: AssemblyProduct("Exp2of4")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright ©  2021 Dr. Syed Shameem Ejaz")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
